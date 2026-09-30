@@ -6,7 +6,7 @@ API REST para cadastrar, consultar, atualizar e remover filmes, construída com 
 
 ## 📸 Documentação interativa
 
-![Documentação Swagger](docs/swagger.png)
+![Documentação Swagger](Docs/img.png)
 
 ## ✨ Funcionalidades
 
