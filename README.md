@@ -95,4 +95,4 @@ pytest
 
 ## 👤 Autor
 
-Feito por **SEU NOME** — [LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/SEU-USUARIO)
+Feito por **Jean Ferreira** — [LinkedIn](www.linkedin.com/in/jean-ferreira-4870521a0) · [GitHub](https://github.com/ferreirajean)
